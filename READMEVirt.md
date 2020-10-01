@@ -1,4 +1,4 @@
-python Cookbook
+python Cookbook with virtualenv
 ===============
 
 [![Build Status](https://travis-ci.org/poise/python.png?branch=master)](https://travis-ci.org/poise/python)
